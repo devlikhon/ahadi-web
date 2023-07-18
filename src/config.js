@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'hmdabdul076@gmail.com',
 
   socialMedia: [
     {
@@ -44,9 +44,9 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#bb1e88',
+    navy: '#23272c',
+    darkNavy: '#1c1616',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
